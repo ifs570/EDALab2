@@ -70,7 +70,7 @@
           <ul>
           <li>II. Rotación a la izquierda (3pts)
              <ul>
-	     <li><img src="efloressuc/img/rotarIzquierdaArray.PNG" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="img/rotarIzquierdaArray.PNG" alt="image_1" style witdh="250"; height="250"/></li>
 	       <li> Al tener que ordenar desde una posición al lado izquierdo, se hacen dos for, las cuales cumplen el ordenamiento en relación de la posición del elemento que desean ordenar a la izquierda con la finalidad de hacer el proceso en dos parte Derecha - Izquierda. Luego lo incerta en el array Aiz que tiene el mismo tamaño que el array original.</li>
 	    </ul>
            </li>
@@ -78,7 +78,7 @@
           <ul>
           <li>III. Triangulo Recursivo (4pts)
              <ul>
-	            <li><img src="img/triangulo_recursivo.png?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
+	            <li><img src="img/triangulo_recursivo.PNG?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
                 <li>Al condicionar que base sea mayor a cero logramos la recursión se detenga cuando cumpla las vueltas requeridas para imprimir el triangulo, asi mismo en cada recursión aumentamos un asterisco a la cadena para que asi vaya incrementando la cadena en cada recursión.
               </ul>
            </li>

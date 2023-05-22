@@ -88,25 +88,25 @@
               <ul>
 	            <li>
                   Metodo add(T elemento) para añadir un elemento al final de la lista<br>
-                  <img src="img/cap1.png" alt="add(T elemento)"/><br>
+                  <img src="img/add.PNG" alt="add(T elemento)"/><br>
                   La parte fundamental del codigo esta en el recorrido a través del ciclo while, cuya condicion es verficar si el puntero del nodo es null si no lo es entonces el puntero se actualiza con la referencia del puntero.getNextNodo(), una vez concluido el ciclo el puntero que era null ahora contiene al nuevo nodo y finalmente se incremeta en uno el contador.
                 </li>
 	     <li>
           Metodo add(int indice, N elemento<br>
-          <img src="img/cap2.png" alt="add(indice, elemento)"/><br>
+          <img src="img/add2.PNG" alt="add(indice, elemento)"/><br>
           Ignorando los casos particulares estas lineas son las principales del metodo, se utiliza un for para iterar en la lista hasta llegar a una posición antes del elemento seleccionado, una vez allí se rescata el puntero del nodo actual y su puntero se actuliza al nodo creado y el puntero del nuevo nodo ahora almacena el puntero rescatado.
           </li>
 	     <li>
           Metodo get(int indice)<br>
-          <img src="img/cap3.png" alt="get(indice)"/><br>
+          <img src="img/add3.PNG" alt="get(indice)"/><br>
           Ignorando los casos particulares, el ciclo for ayuda iterar en la Lista hasta llegar al indice requerido y finamente retorna el elemento, el cual es almacenado en el puntero
           </li>
 	     <li>
          Metodo remove(int indice)<br>
-         <img src="img/cap4.png" alt="remove(indice)"/><br>
+         <img src="img/add4.PNG" alt="remove(indice)"/><br>
          La parte fundamental del metodo es el mostrado en la imágen, el ciclo for nos posiciona un indice antes del elemento a borrar, despues, el puntero del nodo a borrar el rescatado y es asignado como null, la referencia rescatada se asigna al puntero del nodo en la que se posicionó el ciclo for y el contador disminuye en 1
          </li>
-	     <li><img src="z_imag/Methods.jpg?raw=true" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="img/Node.PNG" alt="image_1" style witdh="250"; height="250"/></li>
               </ul>
            </li>
           </ul>

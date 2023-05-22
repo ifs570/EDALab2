@@ -62,7 +62,7 @@
           <ul>
           <li>I. Invertir una matriz de enteros (2pts)
              <ul>
-	     <li><img src="~/unsa/EDALab2/img/invertir.png" alt="image_1" style witdh="150"; height="150"/></li>
+	     <li><img src="img/invertir.PNG?raw=true" alt="image_1" style witdh="150"; height="150"/></li>
  	     <li>Se toma el primer y ultimo elemento para intercambiarlo,en un bucle guardando el primer valor en un auxiliar luego reemplazar el valor del primer valor con el ultimo y reemplazar el ultimo valor con el auxiliar.</li>.
 	    </ul>e
            </li>
@@ -70,7 +70,7 @@
           <ul>
           <li>II. Rotación a la izquierda (3pts)
              <ul>
-	     <li><img src="unsa/EDALab2/img/rotarIzquierdaArray.png" alt="image_1" style witdh="250"; height="250"/></li>
+	     <li><img src="efloressuc/img/rotarIzquierdaArray.PNG" alt="image_1" style witdh="250"; height="250"/></li>
 	       <li> Al tener que ordenar desde una posición al lado izquierdo, se hacen dos for, las cuales cumplen el ordenamiento en relación de la posición del elemento que desean ordenar a la izquierda con la finalidad de hacer el proceso en dos parte Derecha - Izquierda. Luego lo incerta en el array Aiz que tiene el mismo tamaño que el array original.</li>
 	    </ul>
            </li>
